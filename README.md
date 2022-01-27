@@ -1,4 +1,4 @@
-# basic-bash-shell-script-tutorial-example
+# basic bash/shell script tutorials example
 
 Few Basic exmaple of Bash Script.
 
@@ -11,7 +11,7 @@ and then run
 ```sudo ./filename.sh```
 
 
-- **Few Examples are below**
+**Few Examples are below**
 - [PRINT/ECHO Command](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/print.sh)
 - [VARIABLES DECLARATION](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/variables.sh)
 - [USER INPUT COLLECT](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/user_input.sh)
