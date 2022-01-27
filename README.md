@@ -12,9 +12,9 @@ and then run
 
 
 - **Few Examples are below**
-- [Print/Echo Command](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/print.sh)
-- [Variables Declaration](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/variables.sh)
-- [User Input](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/user_input.sh)
+- [PRINT/ECHO Command](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/print.sh)
+- [VARIABLES DECLARATION](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/variables.sh)
+- [USER INPUT COLLECT](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/user_input.sh)
 - [IF STATEMENT](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/if_statement.sh)
 - [IF ELSE STATEMENT](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/if_else_statement.sh)
 - [ELSE-IF STATEMENT](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/else_if_statement.sh)
