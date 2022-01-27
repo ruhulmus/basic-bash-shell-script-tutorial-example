@@ -36,3 +36,7 @@ and then run
 - [SIMPLE CALCULATOR](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/lower_case_convert.sh)
 - [NESTED IF CONDITION- SIMPLE STUDENT RESULT](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/nested_if.sh)
 - [PRIME NUMBER CHECK](https://github.com/ruhulmus/basic-bash-shell-script-tutorial-example/blob/main/prime_number.sh)
+
+**Few Bash Script books**
+[The Linux Command Line by William Shotts](http://linuxcommand.org/tlcl.php)
+[Advanced Bash Scripting Guide by Mendel Cooper](https://tldp.org/LDP/abs/html)
