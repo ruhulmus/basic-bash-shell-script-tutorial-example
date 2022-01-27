@@ -1,6 +1,5 @@
 #! /bin/bash
 
-
 #PRIME NUMBER CHECK FROM USER INPUT
 echo -n "Enter Any Number: "
 read -r n

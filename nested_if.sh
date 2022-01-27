@@ -1,6 +1,7 @@
 #! /bin/bash
 
 # Example of Nested If condition for a Student Result
+#START 
 echo -e "Please Enter Marks for Bangla: \c"
 read -r m
 echo -e "Please Enter Marks for Math: \c"
@@ -25,3 +26,5 @@ echo "Your Total Marks = $total"
 else
 echo "Sorry You Failed !! Good Luck for Next Time"
 fi
+
+#END
