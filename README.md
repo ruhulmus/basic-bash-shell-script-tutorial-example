@@ -2,7 +2,7 @@
 
 Few Basic exmaple of Bash Script.
 
-- **Executable Command:** To Make the file executable you need to run below command:
+- **Executable Command:** To Make the file executable, you need to run below command:
 
 ```chmod +x filename.sh ```
 
