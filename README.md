@@ -39,7 +39,9 @@ and then run
 
 **Few Bash Script books**
 [The Linux Command Line by William Shotts](http://linuxcommand.org/tlcl.php)
+
 [Advanced Bash Scripting Guide by Mendel Cooper](https://tldp.org/LDP/abs/html)
+
 [Bash Guide for Beginners (Machtelt Garrels)](https://freecomputerbooks.com/Bash-Guide-for-Beginners.html)
 
 [Essential Bash (Krzysztof Kowalczyk)
